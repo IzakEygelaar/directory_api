@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  dir_api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: dir_api
+    ports: 
+      - 8080:8080
