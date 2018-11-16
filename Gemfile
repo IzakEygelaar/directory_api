@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
-  gem 'sinatra', '~> 2.0.3'
-  gem 'sinatra-contrib', '~> 2.0.3'
+  gem 'sinatra', '~> 2.0.4'
+  gem 'sinatra-contrib', '~> 2.0.4'
   gem 'json', '~> 2.1.0'
+  gem 'rack', '~> 2.0.6'
